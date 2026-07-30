@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104483179868",
+    "project_id": "torkk-24983",
+    "storage_bucket": "torkk-24983.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104483179868:android:8a8f14f07802b25c9a0599",
+        "android_client_info": {
+          "package_name": "com.torkk.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNrwlxB3gaotCANgyy2Q7hVi5K3JsqqBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
